@@ -1,4 +1,5 @@
 [user]
-	mail = zin@zin.com
 	name = daumanec
 	email = daumanec@gmail.com
+[push]
+	default = matching
